@@ -29,6 +29,8 @@ svg {
 img {
   display: none;
   align-self: center;
+  max-height: 80%;
+  max-width: 90%;
 }
 
 .text-copy {
