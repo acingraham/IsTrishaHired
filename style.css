@@ -13,9 +13,32 @@ BODY {
   background: #082330;
   background-size: .12em 100%;
   font: 14em/1 Arial;
-  display: flex;
+}
+
+#main {
+  display: none;
+  height: 100%;
+  width: 100%;
+  margin: 0;
   flex-direction: column;
   justify-content: space-evenly;
+}
+
+#bday {
+  color: #5051DB;
+  display: none;
+  flex-direction: column;
+  font-size: 10vmin;
+}
+
+#bdayImage {
+  min-height: 50vmin;
+  max-width: 95vw;
+  max-height: 50vh;
+}
+
+#bdayMessageWrapper {
+  padding: 5vmin 5vmin 0 5vmin;
 }
 
 .text--line {
@@ -27,10 +50,13 @@ svg {
 }
 
 img {
-  display: none;
   align-self: center;
   max-height: 80%;
   max-width: 90%;
+}
+
+#proofImage {
+  display: none;
 }
 
 .text-copy {
@@ -75,3 +101,10 @@ img {
     stroke-dasharray: 0 87.5%;
   }
 }
+
+
+
+
+
+
+

@@ -7,44 +7,43 @@
     <link rel="shortcut icon" type="image/png" href="./favicon.png">
 </head>
 <body>
-    <svg id="no" viewBox="0 0 800 200">
-      <symbol id="s-text">
-        <text text-anchor="middle"
-              x="50%"
-              y="85%"
-              class="text--line2"
-              id="line1"
-              >
-        </text>
-      </symbol>
-      
-      <g class="g-ants">
-        <use xlink:href="#s-text"
-          class="text-copy"></use>     
-        <use xlink:href="#s-text"
-          class="text-copy"></use>     
-        <use xlink:href="#s-text"
-          class="text-copy"></use>     
-        <use xlink:href="#s-text"
-          class="text-copy"></use>     
-        <use xlink:href="#s-text"
-          class="text-copy"></use>     
-      </g>
-    </svg>
+    <div id="main">
+        <svg id="no" viewBox="0 0 800 200">
+          <symbol id="s-text">
+            <text text-anchor="middle"
+                  x="50%"
+                  y="85%"
+                  class="text--line2"
+                  id="line1"
+                  >
+            </text>
+          </symbol>
 
-    <img src="https://www.rd.com/wp-content/uploads/2018/02/19_Adorable-Puppy-Pictures-that-Will-Make-You-Melt_391191067_chris_tina-760x506.jpg">
+          <g class="g-ants">
+            <use xlink:href="#s-text"
+              class="text-copy"></use>
+            <use xlink:href="#s-text"
+              class="text-copy"></use>
+            <use xlink:href="#s-text"
+              class="text-copy"></use>
+            <use xlink:href="#s-text"
+              class="text-copy"></use>
+            <use xlink:href="#s-text"
+              class="text-copy"></use>
+          </g>
+        </svg>
 
-    <!--
-    <audio id="yes-music">
-        <source src="./music/DontSayGoodbye.mp3" type="audio/mp3">
-    </audio>
+        <img id="proofImage" src="">
+    </div>
 
-    <audio id="no-music">
-        <source src="./music/ThisIsWar5.mp3" type="audio/mp3">
-    </audio>
-    -->
-
+    <div id="bday">
+        <img id="bdayImage" src="./img/bday_pusheen.gif">
+        <div id="bdayMessageWrapper">
+            <span id="bdayMessage"></span>
+        </div>
+    </div>
     <script src="./jquery.js"></script>
+    <script src="./typed.js"></script>
     <script src="./script.js"></script>
 </body>
 </html>
