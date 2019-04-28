@@ -26,6 +26,10 @@ let bdayMessages = [
     message: '404 - Well Wishes Not Found',
     author: 'Andrew',
   },
+  {
+    message: 'Happy birthday! Welcome back to the big family! We split btw, so make sure you make the right choice:-)',
+    author: 'Li',
+  },
 ];
 
 if (todayIsTrishasBday) {
