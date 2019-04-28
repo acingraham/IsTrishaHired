@@ -87,3 +87,11 @@ if (todayIsTrishasBday) {
     $('#proofImage').fadeIn();
   }, 6000);
 }
+
+
+$('body').click(function() {
+  const audioElem = $('audio')[0];
+  if (audioElem && audioElem.paused) {
+    audioElem.play();
+  }
+});
