@@ -30,6 +30,10 @@ let bdayMessages = [
     message: 'Happy birthday! Welcome back to the big family! We split btw, so make sure you make the right choice:-)',
     author: 'Li',
   },
+  {
+    message: "Happy birthday Trisha! Come back to Flatiron already. The PROPS / COOP / <INSERT FUTURE TEAM NAME HERE> team can't wait.",
+    author: 'Jacob',
+  },
 ];
 
 if (todayIsTrishasBday) {
