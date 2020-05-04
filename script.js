@@ -72,7 +72,7 @@ let bdayMessages = [
     author: 'Calder',
   },
   {
-    message: "Happy birthday TREESH / mother!!! Thanks for being the only sane one in prac-youth, I appreciate you <3",
+    message: "Happy birthday TREESH / mother!!! Thanks for being the only sane one in prac-youth, I appreciate you &lt;3",
     author: 'KT',
   },
   {
@@ -88,7 +88,7 @@ let bdayMessages = [
     author: 'Paul',
   },
   {
-    message: "Happy Birthday Trisha!! Miss distracting ourselves from work by doin endless crosswords and leaving the office to get pastries <3 <3 You’re a 🌟and I hope you have a great birthday!!",
+    message: "Happy Birthday Trisha!! Miss distracting ourselves from work by doin endless crosswords and leaving the office to get pastries &lt;3 &lt;3 You’re a 🌟and I hope you have a great birthday!!",
     author: 'Chaya',
   },
   {
@@ -96,7 +96,7 @@ let bdayMessages = [
     author: 'MaxT',
   },
   {
-    message: "Happy birthday, Trisha!! Hope your day/year/life is full of cake & joy & speedy NYT crossword times :)",
+    message: "Happy birthday, Trisha!! Hope your day/year/life is full of cake &amp; joy &amp; speedy NYT crossword times :)",
     author: 'Emily',
   },
   {
