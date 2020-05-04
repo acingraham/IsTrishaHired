@@ -7,7 +7,6 @@ const todayIsTrishasBday = (new Date()).toDateString().indexOf(trishasBday) > -1
 
 let bdayMessages = [
   // 2019 bday messages
-  /*
   {
     message: 'Happy Birthday, Trisha!  Looking forward to seeing you back at Flatiron!',
     author: 'Tom',
@@ -36,7 +35,6 @@ let bdayMessages = [
     message: "Happy birthday Trisha! Come back to Flatiron already. The PROPS / COOP / &lt;INSERT FUTURE TEAM NAME HERE&gt; team can't wait.",
     author: 'Jacob',
   },
-  */
 
   // 2020 bday messages
   {
