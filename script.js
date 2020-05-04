@@ -139,7 +139,7 @@ if (todayIsTrishasBday) {
   const options = {
     strings: bdayMessages,
     typeSpeed: 40,
-    shuffle: false,
+    shuffle: true,
     loop: true,
     fadeOut: true,
     backDelay: 3000,
