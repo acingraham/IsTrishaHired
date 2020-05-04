@@ -124,7 +124,7 @@ let bdayMessages = [
     author: 'Blumby',
   },
   {
-    message: "",
+    message: "TODO",
     author: 'Andrew',
   },
 ];
