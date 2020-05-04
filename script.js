@@ -33,7 +33,7 @@ let bdayMessages = [
     author: 'Li',
   },
   {
-    message: "Happy birthday Trisha! Come back to Flatiron already. The PROPS / COOP / <INSERT FUTURE TEAM NAME HERE> team can't wait.",
+    message: "Happy birthday Trisha! Come back to Flatiron already. The PROPS / COOP / &lt;INSERT FUTURE TEAM NAME HERE&gt; team can't wait.",
     author: 'Jacob',
   },
   */
@@ -101,11 +101,11 @@ let bdayMessages = [
   },
   {
     message: "Happy birthday Trisha! Funny how we’ve never met back in school but I’m glad that I got to know you at Flatiron! Never too late!",
-    author: '',
+    author: 'Jaeyoon',
   },
   {
     message: "Look at you, aging again! Thanks for being a great Jersey teammate in this Ohio dense world. You are suspiciously casually extremely badass and impressive so keep that up. I can’t wait to see what adventures New York has in store for the future !!",
-    author: '',
+    author: 'Robin',
   },
   {
     message: "Happy Bday, Trisha -- you are no longer a YA, but now an old person like myself.  As you age you’ll start being smarter (like myself) and wiser (like myself) but not as wise as myself (like myself).  In seven years from now you’ll look back on all the things I said to you and  be like, wow I wish I was like that now.  JK but not really - hope you enjoy hanging out with your cool parents.  Just know that Mango Lassi will be performed and that should be enough to get you through quarantine",
@@ -122,6 +122,10 @@ let bdayMessages = [
   {
     message: "Happy birthday, Trisha! I too have a quarantine bday and feel your pain. Don’t worry, even though time doesn’t feel real right now, you’re still getting older.",
     author: 'Blumby',
+  },
+  {
+    message: "",
+    author: 'Andrew',
   },
 ];
 
